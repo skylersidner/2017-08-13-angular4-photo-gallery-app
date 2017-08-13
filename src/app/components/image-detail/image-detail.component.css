@@ -1,10 +1,18 @@
 .image-container {
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+
+img {
   margin: 24px;
   box-shadow: #555555 1px 2px 8px 1px;
-  align-content: center;
+
 }
 
 .caption-row {
+  display:flex;
+  justify-content:center;
   align-content: center;
 }
 
