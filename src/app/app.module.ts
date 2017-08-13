@@ -10,7 +10,7 @@ import { AppComponent } from './app.component';
   ],
   imports: [
     BrowserModule,
-    AlertModule
+    AlertModule.forRoot()
   ],
   providers: [],
   bootstrap: [AppComponent]
