@@ -1,0 +1,18 @@
+.image-container {
+  margin: 24px;
+  box-shadow: #555555 1px 2px 8px 1px;
+  align-content: center;
+}
+
+.caption-row {
+  align-content: center;
+}
+
+#caption {
+  font-size: 1.5em;
+  font-family: "Open Sans", sans-serif;
+  padding: 18px;
+  margin: 24px;
+  color: #222222;
+  border: 1px solid #BBBBBB;
+}
