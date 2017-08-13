@@ -1,5 +1,7 @@
 # Gallery
 
+This project is based on [Wes Doyle's tutorial](https://www.youtube.com/watch?v=V5-CIZTLyvw).  I may modify it once I'm finished with the tutorial, but the purpose is to deepen my experience with Angular4, Typescript, and architecture decisions.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.0.
 
 ## Development server
